@@ -11,4 +11,5 @@ aforementioned|vorgenannten
 Inferior|untergeordnet
 particular|besondere
 subvert|unterwandern
-however|jedoch 
+however|jedoch
+attempt|Versuch 
