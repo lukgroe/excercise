@@ -1,8 +1,10 @@
 #Vocabularies to learn
 
+endeavour|Unterfangen
+politely|höflich 
 yet|bis jetzt
 capable|fähig
-severity|Schwre
+severity|Schwere
 wrap up|einpacken
 Crucial|Entscheidend
 Among|zwischen
