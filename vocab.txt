@@ -1,5 +1,6 @@
 #Vocabularies to learn
 
+asterisk|Sternchen
 purpose|Zweck
 endeavour|Unterfangen
 politely|höflich 
