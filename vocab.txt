@@ -1,6 +1,6 @@
 #Vocabularies to learn
 
-bankruptcy|Konkurs
+bankruptcy|Bankrott
 inhibitated|gehemmt
 aptitude|Eignung
 albeit|obgleich
