@@ -1,5 +1,8 @@
 #Vocabularies to learn
 
+inhibitated|gehemmt
+aptitude|Eignung
+albeit|obgleich
 asterisk|Sternchen
 purpose|Zweck
 endeavour|Unterfangen
