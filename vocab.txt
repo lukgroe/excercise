@@ -1,5 +1,7 @@
 #Vocabularies to learn
 
+yet|bis jetzt
+capable|fähig
 severity|Schwre
 wrap up|einpacken
 Crucial|Entscheidend
