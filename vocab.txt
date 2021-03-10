@@ -1,5 +1,6 @@
 #Vocabularies to learn
 
+severity|Schwre
 wrap up|einpacken
 Crucial|Entscheidend
 Among|zwischen
