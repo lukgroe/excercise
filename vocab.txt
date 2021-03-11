@@ -1,5 +1,6 @@
 #Vocabularies to learn
 
+ridicilous|lächerlich
 ahead|voraus
 fetch|holen
 bankruptcy|Pleite
