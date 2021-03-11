@@ -1,5 +1,6 @@
 #Vocabularies to learn
 
+ahead|voraus
 fetch|holen
 bankruptcy|Pleite
 inhibitated|gehemmt
