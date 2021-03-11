@@ -1,6 +1,28 @@
+# In this file we want to list the most important git commands and termsi
 
-
-
+Terminology:
+.gitignore = files that are not recognized by our git repo 
+commit=snapshot of the project state a certain point in time
+repository=staging area + history
+working tree=Is what we see in our filesystem
+staging area=modifications that are considered if we commit the folder
+history=storeplace of all commits made during the project
+1.) git init = create a new repo in the current directory
+2.) git status = useful informations (which branch, un-/tracked files)
+3.) git add <filename> = add file to staging area
+4.) git log = overview on all existing commits
+4.1)git log -- filename = show all commits that affected file "filename"
+5.) git diff = show difference between working tree and staging area
+6.) git diff --staged = show difference between staging area and most recent commit 
+7.) git commit -m "message" = create new snapshot with information "message"
+8.) git rm filename = remove file from working tree and add this deletion to staging area 
+9.) git checkout --filename = replace "filename" with the corresponding file in staging area 
+10.) git reset HEAD filename = load file "filename" from HEAD into staging area 
+11.) git checkout commitnr -- filename = take file "filename" from commit commitnr and load into the working tree and staging area
 #git commands
+12.)
+
+
+
 
 
