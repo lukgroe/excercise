@@ -29,5 +29,7 @@ history=storeplace of all commits made during the project
 alias overview = 'git log --all --decorate --oneline --graph'
 2.) git branch name = create a new branch called "name", the branches point on the commit where HEAD is pointing on
 3.) git checkout branchname = HEAD pointer moves to branch named "branchname" working tree and staging area are beeing updatet also in a same breath
+4.) git branch -d branchname = delete branch with name "branchname" (careful)
+5.) git branch -d branchname = delete branch with name "branchname" (hard)
 
 
