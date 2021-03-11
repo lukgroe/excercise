@@ -1,6 +1,8 @@
 # In this file we want to list the most important git commands and termsi
 
 Terminology:
+HEAD = HEAD is a special pointer which usualy points on a branch (but can also point on commits but is untypical)
+branch=is a pointer to a hash commit 
 .gitignore = files that are not recognized by our git repo 
 commit=snapshot of the project state a certain point in time
 repository=staging area + history
@@ -19,10 +21,13 @@ history=storeplace of all commits made during the project
 9.) git checkout --filename = replace "filename" with the corresponding file in staging area 
 10.) git reset HEAD filename = load file "filename" from HEAD into staging area 
 11.) git checkout commitnr -- filename = take file "filename" from commit commitnr and load into the working tree and staging area
-#git commands
-12.)
 
+# working with branches 
 
-
+1.) git log --all --decorate --oneline --graph = full overview of branch etc
+-> useful to safe this as an alias with the following command:
+alias overview = 'git log --all --decorate --oneline --graph'
+2.) git branch name = create a new branch called "name", the branches point on the commit where HEAD is pointing on
+3.) git checkout branchname = HEAD pointer moves to branch named "branchname" working tree and staging area are beeing updatet also in a same breath
 
 
