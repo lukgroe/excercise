@@ -1,6 +1,7 @@
 # In this file we want to list the most important git commands and termsi
 
 Terminology:
+detached HEAD = A HEAD that is pointing to a commit and not to a branch
 HEAD = HEAD is a special pointer which usualy points on a branch (but can also point on commits but is untypical)
 branch=is a pointer to a hash commit 
 .gitignore = files that are not recognized by our git repo 
@@ -31,5 +32,7 @@ alias overview = 'git log --all --decorate --oneline --graph'
 3.) git checkout branchname = HEAD pointer moves to branch named "branchname" working tree and staging area are beeing updatet also in a same breath
 4.) git branch -d branchname = delete branch with name "branchname" (careful)
 5.) git branch -d branchname = delete branch with name "branchname" (hard)
-
-
+6.) git merge branchname = merge the branch where the HEAD is pointing at with the branch "branchname", there a two types of merges recursive and direct forward
+7.) git stash = some work that is note finalized but while you work on it you decide to work on something different. Make a snapshot and you cintinue the work later
+8.) git stash list = show all stashes 
+9.) git stash apply = load the most recent stash 
