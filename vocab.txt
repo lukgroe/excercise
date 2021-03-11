@@ -1,7 +1,6 @@
 #Vocabularies to learn
 
-ridicilous|lächerlich
-ahead|voraus
+calm|ruhe
 fetch|holen
 bankruptcy|Pleite
 inhibitated|gehemmt
