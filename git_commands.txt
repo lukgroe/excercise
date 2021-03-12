@@ -36,3 +36,16 @@ alias overview = 'git log --all --decorate --oneline --graph'
 7.) git stash = some work that is note finalized but while you work on it you decide to work on something different. Make a snapshot and you cintinue the work later
 8.) git stash list = show all stashes 
 9.) git stash apply = load the most recent stash 
+
+#using git hub to work with remotes 
+
+1.) git clone url = download repo from github on local machine
+2.) git remote = list all remotes
+3.) git remote -v = shows the locations we are able to reach if we apply fetch or push command
+4.) git fetch repo = sync up commits from remote repo (mostly origin) and make it viewable on our repo
+5.)git merge origin/branch = merge the branch where the HEAD is currently pointing at with the branch from origin called "branch" (mostly master)
+6.) git pull = combine git fetch and git merge in one single command since it is usually used together (as a beginner it is recommended to go the direction by using both commands and refrain from using git pull) -> all in all this procedure is been used if remote is some commits ahead from our branch
+7.)git push origin master = push or current branch into the master branch locate in the remote origin (is used if our branch is ahead of the remote branch)
+8.) git remote add name http = add a further remote named "name" to our repository (once you apply this command check with git remote -v to see it)
+9.) git remote remove name = remove the remote "name" from our remote list
+

@@ -1,5 +1,6 @@
 #Vocabularies to learn
 
+customize|anpassen
 calm|ruhe
 fetch|holen
 bankruptcy|Pleite
