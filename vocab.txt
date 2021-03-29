@@ -28,3 +28,4 @@ subvert|unterwandern
 however|jedoch
 concerns|Sorgen
 antecedent|vorausgegangen
+attempt|versuch
